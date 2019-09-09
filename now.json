@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "name": "playground-panzerstadt-data",
+  "builds": [{ "src": "package.json", "use": "@now/next" }]
+}

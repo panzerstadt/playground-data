@@ -6,8 +6,8 @@
   "dependencies": {
     "next": "^7.0.2",
     "radium": "^0.25.0",
-    "react": "^16.6.0",
-    "react-dom": "^16.6.0"
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2"
   },
   "scripts": {
     "dev": "next",
